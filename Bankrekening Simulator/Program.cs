@@ -10,7 +10,7 @@ namespace BankRekeningSimulator
 
             while (true) // Oneindige loop om de gebruiker steeds keuzes te laten maken
             {
-                Console.WriteLine("Maak een keuze hieronder");
+                Console.WriteLine("Maak een keuze hieronder:\n");
                 Console.WriteLine("(1) Saldo bekijken - Show Balance ");
                 Console.WriteLine("(2) Storten - deposit");
                 Console.WriteLine("(3) Opnemen - withdraw");
